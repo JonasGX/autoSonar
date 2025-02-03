@@ -1,0 +1,8 @@
+-- crie um env: python -m venv XXXXX
+-- source XXXX/Scripts/activate
+
+-- pip install selenium
+-- Gerar um executável simples (precisa do arquivo .py para rodar):
+-- pip install pyinstaller
+-- pyinstaller --onefile meu_script.py
+-- pip install python-dotenv
